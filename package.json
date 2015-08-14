@@ -1,6 +1,6 @@
 {
-  "name": "get-by-class",
-  "repo": "slifszyc/get-by-class",
+  "name": "democracyos-get-by-class",
+  "repo": "DemocracyOS/get-by-class",
   "description": "A cross-browser implementation of getElementsByClass",
   "version": "0.0.1",
   "keywords": ["class", "classname"]
